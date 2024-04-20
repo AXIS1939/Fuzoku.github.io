@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>附属校の全て</title>
     <meta name="description" content="ページの内容を表す文章">
-    <link rel="stylesheet" type="text/css" href="./css/index.css">
+    <link rel="stylesheet" type="text/css" href=".style.css">
   </head>
   <body>
     <div class="header">
